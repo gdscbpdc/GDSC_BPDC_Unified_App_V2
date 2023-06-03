@@ -27,8 +27,8 @@ Text must be in markdown format; Diagrams must be in `svg` format
 
 - GSheets
 - [Streamsync](https://medium.com/@ramiromedina/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf)
-- Pandas
-- Plotly
+- [Polars](https://www.pola.rs/)
+- [Plotly](https://plotly.com/)
 
 ## Reference
 
