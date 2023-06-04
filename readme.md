@@ -26,9 +26,9 @@ Text must be in markdown format; Diagrams must be in `svg` format
 ## Technologies
 
 - GSheets. Why not SQL?
-- Streamlit. Why not [Streamsync](https://medium.com/@ramiromedina/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf)
+- Streamlit. Why not [Streamsync](https://medium.com/@ramiromedina/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf)?
 - [Polars](https://www.pola.rs/). Why not Pandas?
-- Plotly. Why not Matplotlib?
+- Plotly. Why not Matplotlib and others?
 
 ## Reference
 
