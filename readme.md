@@ -3,7 +3,7 @@
 - Ensure to make GDSC account the owner for all assets, documents, designs, etc. Use your personal accounts for accessing (feel free to create a copy of everything to your personal account for your future reference).
 - Don’t use any LLMs[^LLMs] for anything!
 - This is a self-learning exercise.
-  - **Don't ask Anurag or Thahir** for how to do things. Feel free to ask others. If Thahir finds out Anurag was asked, he will be very disappointed in you people.
+  - **Don't ask Anurag or Thahir** for how to do things. Feel free to ask others. If Thahir finds out Anurag was asked for help, he will be very disappointed.
   - You may ask Anurag or Thahir sparingly, only for doubts regarding the instructions in this document. Remember, how you implement is your freedom. Thahir has only specified the requirements.
 
 [^LLMs]: Large Language Models
@@ -50,7 +50,7 @@ Text must be in markdown format; Diagrams must be in `svg` format
 | ------------------ | ------------------------------ | ------------------------------------------------------------ |
 | Database           | GSheets                        | SQL                                                          |
 | App                | Streamlit                      | [Streamsync](https://medium.com/@ramiromedina/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf)<br />Dash |
-| Dataframe          | [Polars](https://www.pola.rs/) | Pandas<br />Modin<br />Dask<br />Ray                         |
+| Dataframe          | [Polars](https://www.pola.rs/) | Pandas<br />Modin<br />Koalas<br />Dask<br />Ray                         |
 | Data Visualization | Plotly                         | Matplotlib<br />Seaborn<br />Altair<br />Plotnine<br />HVPlot<br />Bokeh |
 | Diagramming  | Draw.io                         | Canva                                                     |
 | Reference Manager  | Zotero                         | Mendeley                                                     |
