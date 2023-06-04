@@ -8,6 +8,23 @@
 
 [^LLMs]: Large Language Models
 
+## Documentation
+
+Everything must be documented as simple and precise as possible, in their own files (already created). Write everything in your own words. Do not use LLMs[^LLMs] for this.
+
+Text must be in markdown format; Diagrams must be in `svg` format
+
+- [ ] ER Diagram of database
+- [ ] Notes for technologies used as mentioned
+  - Simplified explanation for each library. Its use-cases, advantages, disadvantages. 
+  - Why tool used
+  - Why tool not used. Feel free to document other tools if you come across something better/worse
+- [ ] Explanation of features
+- [ ] Reason for method of implementations
+- [ ] References used
+  - Use Reference Manager
+  - Use Footnotes like how used here for LLMs[^LLMs]
+
 ## Requirements
 
 ### Database Features
@@ -20,39 +37,25 @@
 
 - [ ] User Authentication
 - [ ] GSheets Connectivity
+- [ ] Appropriate Caching
+- [ ] Optimized dataframe operations
 - [ ] Interactive Graphs
 - [ ] High Performance
 - [ ] ~~ML~~ Not for now, since not enough data.
-- [ ] Hosted online, preferably [streamlit](https://share.streamlit.io/).
+- [ ] Hosted online, preferably on [streamlit share](https://share.streamlit.io/).
 
-### Documentation
+### Tools
 
-Everything must be documented as simple and precise as possible. Write in your own words. Do not use LLMs[^LLMs] for this.
-
-Text must be in markdown format; Diagrams must be in `svg` format
-
-- [ ] ER Diagram of database
-- [ ] Notes for technologies used as mentioned
-  - Simplified explanation for each library. Its use-cases, advantages, disadvantages. 
-  - Why technology used
-  - Why technology not used. Feel free to document more if you come across something
-- [ ] Explanation of features
-- [ ] Reason for method of implementations
-- [ ] References used
-  - Use Reference Manager
-  - Use Footnotes like how used here for LLMs[^LLMs]
-
-## Technologies
-
-| Technology         | Use                            | Not Use                                                      |
+| Purpose         | Tool to Use                            | Tool to Not Use                                                      |
 | ------------------ | ------------------------------ | ------------------------------------------------------------ |
 | Database           | GSheets                        | SQL                                                          |
 | App                | Streamlit                      | [Streamsync](https://medium.com/@ramiromedina/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf)<br />Dash |
 | Dataframe          | [Polars](https://www.pola.rs/) | Pandas<br />Modin<br />Dask<br />Ray                         |
 | Data Visualization | Plotly                         | Matplotlib<br />Seaborn<br />Altair<br />Plotnine<br />HVPlot<br />Bokeh |
+| Diagramming  | Draw.io                         | Canva                                                     |
 | Reference Manager  | Zotero                         | Mendeley                                                     |
 
-## Reference
+## Reference App
 
-[App V1](https://gdscbpdc.streamlit.app/)
+[App V1](https://gdscbpdc.streamlit.app/) by Ahmed Thahir
 
