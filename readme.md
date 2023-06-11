@@ -1,5 +1,7 @@
 # GDSC Unified App V2
 
+**Don't edit the main sheet.**
+
 - Ensure to make GDSC account the owner for all assets, documents, designs, etc. Use your personal accounts for accessing
 - Feel free to create a copy of everything to your personal account for your future reference
 - Don’t use any LLMs[^LLMs] for anything!
