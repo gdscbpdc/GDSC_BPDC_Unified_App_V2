@@ -40,6 +40,7 @@ Text must be in markdown format; Diagrams must be in `svg` format
 ### App Features
 
 - [ ] User Authentication
+- [ ] User Privilege
 - [ ] GSheets Connectivity
 - [ ] Appropriate Caching
 - [ ] Optimized dataframe operations
