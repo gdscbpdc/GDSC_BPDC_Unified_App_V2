@@ -56,7 +56,7 @@ Ensure to stick to only open-source tools (GSheets is the only exception).
 | Purpose         | Tool to Use                            | Tool to Not Use                                                      |
 | ------------------ | ------------------------------ | ------------------------------------------------------------ |
 | Database           | GSheets                        | SQL                                                          |
-| App                | Streamlit                      | [Streamsync](https://medium.com/@ramiromedina/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf)<br />Dash |
+| App                | [Streamsync](https://medium.com/@ramiromedina/streamsync-like-streamlit-but-faster-and-with-a-visual-ui-editor-9f98ad17adf)                      | Streamlit<br />Dash |
 | Dataframe          | Polars | Pandas<br />DuckDB<br />SQLite<br />Modin<br />Koalas<br />Dask<br />Ray                         |
 | Data Visualization | Plotly                         | Matplotlib<br />Seaborn<br />Altair<br />Plotnine<br />HVPlot<br />Bokeh |
 | Diagramming  | Draw.io                         | Canva                                                     |
